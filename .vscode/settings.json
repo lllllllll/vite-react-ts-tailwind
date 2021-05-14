@@ -2,5 +2,8 @@
   "editor.tabSize": 2,
   "editor.formatOnSave": true,
   "editor.detectIndentation": false,
-  "css.validate": false
+  "vetur.validation.style": false,
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
 }
